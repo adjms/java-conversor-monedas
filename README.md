@@ -32,7 +32,7 @@ Al ejecutar el programa, verás un menú en la consola con varias opciones de co
 Selecciona la opción correspondiente a la conversión deseada.
 Ingresa el valor de la moneda que deseas convertir.
 El programa mostrará el resultado de la conversión basado en las tasas de cambio más recientes obtenidas de la API.
-´´´
+```
 --<<<<< Menu conversor de monedas >>>>>--
 [1] (USD) Dólar => Peso argentino (ARS)
 [2] (ARS) Peso argentino => Dólar (USD)
@@ -48,7 +48,7 @@ El programa mostrará el resultado de la conversión basado en las tasas de camb
 Elija una de las opciones válidas: 1
 Ingrese un valor válido de su moneda para convertir: 100
 El resultado de: 100 USD, es igual a: 97058.0 ARS
-´´´
+```
 ## API Utilizada
 Este proyecto utiliza la ExchangeRate-API para obtener las tasas de cambio actuales. 
 Para su funcionamiento, necesitas tu propia clave de API, la cual puedes obtener de la página oficial y luego reemplazar en la URL de consulta:
